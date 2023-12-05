@@ -1,4 +1,4 @@
-# App-ikon
+# Visual
 画像や写真を無料で高画質化しましょう
 https://photobooth.online/ja-jp/image-enhancer
 
