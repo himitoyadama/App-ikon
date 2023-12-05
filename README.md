@@ -1,4 +1,6 @@
 # App-ikon
+[Too amazing! ] This AI site is too amazing! [Absolutely use it! ]
+https://www.youtube.com/watch?v=oHsWWDK6Hio
 
 【23H2】Windows11の大型アップデート23H2を古いパソコンに適応させる方法！【裏技！】 https://www.youtube.com/watch?v=MQONhIsY5gM
 
