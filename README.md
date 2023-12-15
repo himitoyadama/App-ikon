@@ -1,4 +1,10 @@
 # Visual
+Dotnet MAUI App Icon Correct Way
+https://www.youtube.com/watch?app=desktop&v=iigquyjXlM0
+
+photopea
+https://www.photopea.com/
+
 .NET MAUI svgファイルの色を変えてみた
 https://blog.mazepin-led.com/2023/04/maui-svg.html
 
