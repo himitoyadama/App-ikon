@@ -1,4 +1,7 @@
 # Visual
+CSS Gradient
+https://cssgradient.io/
+
 Dotnet MAUI App Icon Correct Way
 https://www.youtube.com/watch?app=desktop&v=iigquyjXlM0
 
